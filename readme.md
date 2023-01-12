@@ -6,7 +6,7 @@
 
 # About
 > This 2D game is part of a experimental set of educational games built in godot engine using gdscript language. (like python)  
-> Factorize a number hitting off barrels. 
+> Factorize a number hitting off barrels.   
 > [Based on the Udemy course by Daniel Ciolfi ](https://www.udemy.com/share/101H2o3@0zyuHpubHArkGylel-tlkpuc2Z8f7BSf-UPUKMRqKbIxfDej4CiTEewmp7UrDPCV/)
 >
 > [![NPM](https://img.shields.io/npm/l/react)](./LICENSE) 
@@ -27,24 +27,24 @@
 
 
 # Layouts
-> ## A typical start page
-> - The initial number to be factored is randonomicaly generated.
+> ## A typical start page  
+> - The initial number to be factored is randonomicaly generated.  
 > ![initial page](./readmeImages/initial_page.gif)
 
-> ## If you get right the factorization of 34
-> - For that you hit a barrel with number 2 and number 17
+> ## If you get right the factorization of 34  
+> - For that you hit a barrel with number 2 and number 17  
 > - And you won!!!  
 > ![initial page](./readmeImages/Get_34.gif)
 
-> ## Another example, now you get right the factorization of 48
-> - For that you hit a barrel with number 2 for 4 times and number 3 for once.
+> ## Another example, now you get right the factorization of 48  
+> - For that you hit a barrel with number 2 for 4 times and number 3 for once.  
 > - And you won again!!!  
 > ![initial page](./readmeImages/Get_48.gif)
 
 > ## Oh my god, you lost!!!
-> - Number 19 is a prime number, you should expected it to be shown on a barrel.
-> - 19 divided by 3 is not an integer number.
-> - Good look next!  
+> - Number 19 is a prime number, you should expected it to be shown on a barrel.  
+> - 19 divided by 3 is not an integer number.  
+> - Good look next!   
 > ![initial page](./readmeImages/bum_152.gif)
 
 

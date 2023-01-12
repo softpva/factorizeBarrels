@@ -24,24 +24,24 @@
 > - El sonido se puede apagar haciendo clic en el botón en la esquina superior izquierda de la pantalla.
 
 # diseños
-> ## Una página de inicio típica
-> - El número inicial a factorizar se genera aleatoriamente.
+> ## Una página de inicio típica  
+> - El número inicial a factorizar se genera aleatoriamente.  
 > ![página inicial](./readmeImages/initial_page.gif)
 
 > ## Si aciertas la factorización de 34
-> - Para esto golpeas un barril con el número 2 y uno con el número 17.
-> - Ganaste!!!
+> - Para esto golpeas un barril con el número 2 y uno con el número 17.  
+> - Ganaste!!!  
 > ![página inicial](./readmeImages/Get_34.gif)
 
 > ## Otro ejemplo, ahora aciertas la factorización de 48
-> - Para esto golpeas un barril numerado 2 4 veces y un barril numerado 3 una vez.
-> - Ganaste de nuevo!!!
+> - Para esto golpeas un barril numerado 2 4 veces y un barril numerado 3 una vez.  
+> - Ganaste de nuevo!!!  
 > ![página inicial](./readmeImages/Get_48.gif)
 
 > ## Que mal, perdiste!!!
-> - El número 19 es primo, debe esperar un barril con él estampado.
-> - 19 dividido por 3 no es un número entero.
-> - ¡Buena suerte en el próximo movimiento!
+> - El número 19 es primo, debe esperar un barril con él estampado.  
+> - 19 dividido por 3 no es un número entero.  
+> - ¡Buena suerte en el próximo movimiento!  
 > ![página inicial](./readmeImages/bum_152.gif)
 
 # Modelos

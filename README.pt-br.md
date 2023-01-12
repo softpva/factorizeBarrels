@@ -6,7 +6,7 @@
 
 # Sobre
 > - Este jogo 2D é parte de um conjunto experimental de jogos educativos que foi construido utilizando-se a Godot engine e usando a linguagem gdscript (parecida com python)
-> - Fatorize um número destruindo barris.
+> - Fatorize um número destruindo barris.  
 > [Baseado no curso da Udemy por Daniel Ciolfi ](https://www.udemy.com/share/101H2o3@0zyuHpubHArkGylel-tlkpuc2Z8f7BSf-UPUKMRqKbIxfDej4CiTEewmp7UrDPCV/)
 >
 > [![NPM](https://img.shields.io/npm/l/react)](./LICENSE) 
@@ -25,11 +25,11 @@
 > - O som pode ser desligado clicando no botão que está no canto superior esquerdo da tela.
 
 # Layouts
-> ## Uma típica página inicial
+> ## Uma típica página inicial  
 > - O número inicial a ser fatorado é gerado aleatoriamente.  
 > ![initial page](./readmeImages/initial_page.gif)
 
-> ## Se você acertar a fatoração de 34
+> ## Se você acertar a fatoração de 34  
 > - Para isto você atingiu um barril com o número 2 e um com o número 17.  
 > - Você venceu!!!   
 > ![initial page](./readmeImages/Get_34.gif)
@@ -40,7 +40,7 @@
 > ![initial page](./readmeImages/Get_48.gif)
 
 > ## Que pena, você perdeu!!!
-> - O número 19 é primo, você deveria esperar um barril com ele estampado.
+> - O número 19 é primo, você deveria esperar um barril com ele estampado.  
 > - 19 dividido por 3 não é um número inteiro.  
 > - Boa sorte na próxima jogada!   
 > ![initial page](./readmeImages/bum_152.gif)
