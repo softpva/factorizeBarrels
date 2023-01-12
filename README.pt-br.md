@@ -37,7 +37,7 @@
 > ## Outro exemplo, agora você acerta a fatoração de 48
 > - Para isto você atingiu um barril com o número 2 por 4 vezes e uma vez o barril com o número 3.  
 > - Você venceu novamente!!!  
-> ![initial page](./readmeImages/Get_48.gif)
+> ![initial page](./readmeImages/get_48.gif)
 
 > ## Que pena, você perdeu!!!
 > - O número 19 é primo, você deveria esperar um barril com ele estampado.  

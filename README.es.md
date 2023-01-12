@@ -36,7 +36,7 @@
 > ## Otro ejemplo, ahora aciertas la factorización de 48
 > - Para esto golpeas un barril numerado 2 4 veces y un barril numerado 3 una vez.  
 > - Ganaste de nuevo!!!  
-> ![página inicial](./readmeImages/Get_48.gif)
+> ![página inicial](./readmeImages/get_48.gif)
 
 > ## Que mal, perdiste!!!
 > - El número 19 es primo, debe esperar un barril con él estampado.  

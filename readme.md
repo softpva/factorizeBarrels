@@ -39,7 +39,7 @@
 > ## Another example, now you get right the factorization of 48  
 > - For that you hit a barrel with number 2 for 4 times and number 3 for once.  
 > - And you won again!!!  
-> ![initial page](./readmeImages/Get_48.gif)
+> ![initial page](./readmeImages/get_48.gif)
 
 > ## Oh my god, you lost!!!
 > - Number 19 is a prime number, you should expected it to be shown on a barrel.  
