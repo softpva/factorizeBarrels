@@ -5,8 +5,8 @@
   
 
 # About
-> This 2D game is part of a experimental set of educational games built in godot engine using gdscript language. (like python)
->
+> This 2D game is part of a experimental set of educational games built in godot engine using gdscript language. (like python)  
+> Factorize a number hitting off barrels. 
 > [Based on the Udemy course by Daniel Ciolfi ](https://www.udemy.com/share/101H2o3@0zyuHpubHArkGylel-tlkpuc2Z8f7BSf-UPUKMRqKbIxfDej4CiTEewmp7UrDPCV/)
 >
 > [![NPM](https://img.shields.io/npm/l/react)](./LICENSE) 
@@ -14,9 +14,9 @@
 # Features
 > - The game consists of a bird with a sledgehammer and a stack of barrels.
 > - The bird has time to solve a random number to be factored by hitting the barrels.
-> - Some barrels contain a prime number to be chosen.
+> - Some barrels contain a prime number stamped in it to be chosen.
 > - The external impact of the hammer just moves the pile down.
-> - The internal impact of the hammer points the respective prime number to become a factor in the factorization.
+> - The internal impact (click) of the hammer points the respective prime number to become a factor in the factorization.
 > - You can place the bird to the left or right of the barrels just by clicking on the respective side.
 > - You win if you solve the factorization and you lose if you miss a number, get hit by a spear or run out of time.
 > - Hitting increases the timer counter.
@@ -32,12 +32,12 @@
 > ![initial page](./readmeImages/initial_page.gif)
 
 > ## If you get right the factorization of 34
-> - For that you hit the barrel with number 2 and number 17
+> - For that you hit a barrel with number 2 and number 17
 > - And you won!!!  
 > ![initial page](./readmeImages/Get_34.gif)
 
 > ## Another example, now you get right the factorization of 48
-> - For that you hit the barrel with number 2 for 4 times and number 3 for once.
+> - For that you hit a barrel with number 2 for 4 times and number 3 for once.
 > - And you won again!!!  
 > ![initial page](./readmeImages/Get_48.gif)
 
@@ -50,7 +50,7 @@
 
 # Models
 > - Godot embraces object-oriented design at its core with its flexible scene system and Node hierarchy.
-> - Tree of nodes (smallest building blocks) that you group together into scenes. 
+> - Tree of nodes (node: smallest building blocks) that you group together into scenes. 
 > - Nodes communication each other by signals. 
 > - A Script in GDScript language is a class that extend (inherit) a node class or you can create a new original one class.
 
